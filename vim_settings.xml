@@ -1,0 +1,104 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/workspace/hello-maven-plugin/pom.xml" timestamp="1461430748585">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="104" column="0" />
+        <mark key="]" line="104" column="0" />
+        <mark key="." line="104" column="0" />
+        <mark key="^" line="48" column="39" />
+      </file>
+      <file name="$USER_HOME$/workspace/docker-host-plugin/src/main/java/com/agfa/healthcare/ng/DockerMachineMojo.java" timestamp="1461436468793">
+        <mark key="[" line="85" column="44" />
+        <mark key="]" line="86" column="56" />
+        <mark key="." line="86" column="56" />
+        <mark key="^" line="86" column="56" />
+      </file>
+      <file name="$USER_HOME$/workspace/hello-maven-plugin/src/main/java/sample/plugin/MyMojo.java" timestamp="1461426319868">
+        <mark key="[" line="35" column="13" />
+        <mark key="]" line="35" column="13" />
+        <mark key="." line="35" column="13" />
+        <mark key="^" line="35" column="12" />
+      </file>
+      <file name="$USER_HOME$/workspace/hugo/pom.xml" timestamp="1461436314958">
+        <mark key="[" line="42" column="43" />
+        <mark key="]" line="42" column="64" />
+        <mark key="." line="42" column="64" />
+        <mark key="^" line="42" column="64" />
+      </file>
+      <file name="$USER_HOME$/workspace/hello-maven-plugin/src/main/java/sample/plugin/DockerMachineMojo.java" timestamp="1461428615978">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
+        <mark key="^" line="66" column="11" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="100" column="9" filename="$USER_HOME$/workspace/hello-maven-plugin/pom.xml" />
+      <jump line="72" column="0" filename="$USER_HOME$/workspace/hello-maven-plugin/pom.xml" />
+      <jump line="40" column="0" filename="$USER_HOME$/workspace/hello-maven-plugin/pom.xml" />
+      <jump line="15" column="0" filename="$USER_HOME$/workspace/hello-maven-plugin/pom.xml" />
+      <jump line="11" column="0" filename="$USER_HOME$/workspace/hello-maven-plugin/pom.xml" />
+      <jump line="8" column="0" filename="$USER_HOME$/workspace/hello-maven-plugin/pom.xml" />
+      <jump line="3" column="0" filename="$USER_HOME$/workspace/hello-maven-plugin/pom.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/hello-maven-plugin/pom.xml" />
+    </jumps>
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8YXJndW1lbnRzPgogICAgICAgICAgICAgICAgICAgICAgICA8YXJndW1lbnQ+JHtwcm9qZWN0Ln08L2FyZ3VtZW50Pgo=</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8YXJndW1lbnRzPgogICAgICAgICAgICAgICAgICAgICAgICA8YXJndW1lbnQ+JHtwcm9qZWN0Ln08L2FyZ3VtZW50Pgo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0uc2V0UHJvcGVydHkoImRvY2tlci5ob3N0Iix0aGlzLmRvY2tlckhvc3QpOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHN1cGVyLmdldFBsdWdpbkNvbnRleHQoKS5nCg==</text>
+      </register>
+      <register name="4" type="4">
+        <text>public</text>
+      </register>
+      <register name="5" type="4">
+        <text>private</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvY29uZmlndXJhdGlvbj4K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxjb25maWd1cmF0aW9uPgo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L2FyZ3VtZW50cz4K</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+      <register name="-" type="4">
+        <text>public</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
